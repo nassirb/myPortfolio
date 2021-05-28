@@ -6,6 +6,15 @@ html, body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+header, section {
+    width: 100vw;
+    height: 100vh;
+}
+
+#about, #projets {
+    background-color: #192734;
+}
+
 nav{
     top: 0;
     left: 0;
