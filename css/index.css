@@ -8,9 +8,9 @@ html, body{
 
 nav{
     top: 0;
+    left: 0;
     width: 8vw;
     z-index: 6;
-    left: -15vw;
     height: 100vh;
     color: #ffffff;
     position: absolute;
@@ -21,7 +21,7 @@ nav{
     width: 8vw;
     z-index: 7;
     height: 10%;
-    display: flex;
+    display: none;
     position: absolute;
     align-items: center;
     flex-direction: column;
