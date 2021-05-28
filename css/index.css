@@ -125,11 +125,13 @@ nav{
     top: 50vh;
     left: -30px;
     margin: 0;
+    padding: 0;
 }
 
 footer{
-    margin-left: 8vw;
+    margin-left: 12vw;
     height: 50vh;
+    position: relative;
     background-color: #26282b;
 }
 
@@ -141,7 +143,7 @@ footer{
     nav{
         width: 15vw;
     }
-    header, section {
+    header, section, footer {
         margin-left: 15vw;
     }
     .vertical-name{
@@ -153,7 +155,7 @@ footer{
     nav{
         width: 20vw;
     }
-    header, section {
+    header, section, footer  {
         margin-left: 20vw;
     }
     .vertical-name{

@@ -4,7 +4,7 @@ html, body{
     width: 100vw;
     height: 100vh;
     scroll-behavior: smooth;
-    font-family: 'Roboto', 'BalsamicSans', 'Oxygen', sans-serif;
+    font-family: 'Roboto regular', 'BalsamicSans regular', 'Oxygen regular', sans-serif;
 }
 
 /*
@@ -15,28 +15,28 @@ Balsamic_Sans - font
 
 @font-face {
     font-family: 'Balsamic regular';
-    src: url('/fonts/Balsamic_Sans/BalsamicSans.ttf');
+    src: url('/fonts/Balsamic_Sans/BalsamicSans-Regular.ttf');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Balsamic italic';
-    src: url('/fonts/Balsamic_Sans/BalsamicSans.ttf');
+    src: url('/fonts/Balsamic_Sans/BalsamicSans-Italic.ttf');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Balsamic bold';
-    src: url('/fonts/Balsamic_Sans/BalsamicSans.ttf');
+    src: url('/fonts/Balsamic_Sans/BalsamicSans-Bold.ttf');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Balsamic boldItalic';
-    src: url('/fonts/Balsamic_Sans/BalsamicSans.ttf');
+    src: url('/fonts/Balsamic_Sans/BalsamicSans-Bold-Italic.ttf');
     font-weight: 700;
     font-style: normal;
 }
