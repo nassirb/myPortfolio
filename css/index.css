@@ -145,8 +145,8 @@ nav{
 }
 .contact-cards video, img{
     display: block;
-    width: 100%;
-    height: 100%;
+    width: 80px;
+    height: 110px;
 }
 .contact-cards a:hover{
     transform: scale(1.2);
