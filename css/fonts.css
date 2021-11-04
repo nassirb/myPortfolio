@@ -15,28 +15,28 @@ Balsamic_Sans - font
 
 @font-face {
     font-family: 'Balsamic regular';
-    src: url('/fonts/Balsamic_Sans/BalsamicSans-Regular.ttf');
+    src: url('fonts/Balsamic_Sans/BalsamicSans-Regular.ttf');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Balsamic italic';
-    src: url('/fonts/Balsamic_Sans/BalsamicSans-Italic.ttf');
+    src: url('fonts/Balsamic_Sans/BalsamicSans-Italic.ttf');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Balsamic bold';
-    src: url('/fonts/Balsamic_Sans/BalsamicSans-Bold.ttf');
+    src: url('fonts/Balsamic_Sans/BalsamicSans-Bold.ttf');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Balsamic boldItalic';
-    src: url('/fonts/Balsamic_Sans/BalsamicSans-Bold-Italic.ttf');
+    src: url('fonts/Balsamic_Sans/BalsamicSans-Bold-Italic.ttf');
     font-weight: 700;
     font-style: normal;
 }
@@ -49,21 +49,21 @@ Oxygen - font
 
 @font-face {
     font-family: 'Oxygen light';
-    src: url('/fonts/Oxygen/Oxygen-Light.ttf');
+    src: url('fonts/Oxygen/Oxygen-Light.ttf');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Oxygen regular';
-    src: url('/fonts/Oxygen/Oxygen-Regular.ttf');
+    src: url('fonts/Oxygen/Oxygen-Regular.ttf');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Oxygen bold';
-    src: url('/fonts/Oxygen/Oxygen-Bold.ttf');
+    src: url('fonts/Oxygen/Oxygen-Bold.ttf');
     font-weight: 700;
     font-style: normal;
 }
@@ -76,35 +76,35 @@ Roboto - font
 
 @font-face {
     font-family: 'Roboto thin';
-    src: url('/fonts/Roboto/Roboto-Thin.ttf');
+    src: url('fonts/Roboto/Roboto-Thin.ttf');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto light';
-    src: url('/fonts/Roboto/Roboto-Light.ttf');
+    src: url('fonts/Roboto/Roboto-Light.ttf');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto medium';
-    src: url('/fonts/Roboto/Roboto-Medium.ttf');
+    src: url('fonts/Roboto/Roboto-Medium.ttf');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto regular';
-    src: url('/fonts/Roboto/Roboto-Regular.ttf');
+    src: url('fonts/Roboto/Roboto-Regular.ttf');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto bold';
-    src: url('/fonts/Roboto/Roboto-Bold.ttf');
+    src: url('fonts/Roboto/Roboto-Bold.ttf');
     font-weight: 700;
     font-style: normal;
 }
