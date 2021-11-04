@@ -8,7 +8,7 @@ copyBtn.addEventListener('click', event => {
 });
 
 function copyMail() {
-    var copyText = document.getElementById("myMail");
+    var copyText = document.getElementById("myMail").attribute("href");
   
     copyText.select();
     copyText.setSelectionRange(0, 99999);
