@@ -3,6 +3,7 @@ const burger = document.querySelector('.burger');
 const copyBtn = document.getElementById('#copy-btn');
 
 copyBtn.addEventListener('click', function() {
+    console.log("click");
     copyMail()
 });
 
