@@ -1,5 +1,11 @@
 const nav = document.querySelector('nav');
 const burger = document.querySelector('.burger');
+const copyBtn = document.querySelector('#copy-btn');
+
+copyBtn.addEventListener('click', event => {
+    event.preventDefault
+    copyMail()
+});
 
 function copyMail() {
     var copyText = document.getElementById("myMail");
