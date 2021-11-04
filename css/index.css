@@ -133,6 +133,15 @@ footer{
     height: 50vh;
     position: relative;
     background-color: #26282b;
+    display: flex;
+}
+.map-container{
+    width: 60%;
+    height: 90%;
+}
+.links-container{
+    width: auto;
+    height: 90%;
 }
 
 
