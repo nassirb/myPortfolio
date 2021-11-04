@@ -128,6 +128,29 @@ nav{
     padding: 0;
 }
 
+.contact-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.contact-cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.contact-cards a {
+    display: block;
+}
+.contact-cards video, img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.contact-cards a:hover{
+    transform: scale(1.2);
+}
 footer{
     margin-left: 12vw;
     height: 50vh;
@@ -136,15 +159,18 @@ footer{
     display: flex;
     flex-direction: row;
 }
+
 .map-container{
     width: 60%;
     height: 90%;
 }
+
 .links-container{
     padding-left: 20px;
     width: auto;
     height: 90%;
 }
+
 .links-container ul {
     margin: 0;
     padding: 0;
@@ -154,6 +180,7 @@ footer{
     flex-direction: column;
     justify-content: space-evenly;
 }
+
 .links-container a {
     width: 100%;
     height: 100%;
