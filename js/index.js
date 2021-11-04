@@ -1,6 +1,6 @@
 const nav = document.querySelector('nav');
 const burger = document.querySelector('.burger');
-const copyBtn = document.querySelector('#copy-btn');
+const copyBtn = document.getElementById('#copy-btn');
 
 copyBtn.addEventListener('click', event => {
     event.preventDefault
