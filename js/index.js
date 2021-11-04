@@ -2,12 +2,7 @@ const nav = document.querySelector('nav');
 const burger = document.querySelector('.burger');
 const copyBtn = document.getElementById('#copy-btn');
 
-copyBtn.addEventListener('click', function() {
-    console.log("click");
-    copyMail()
-});
-
-function copyMail() {
+copyBtn.addEventListener('click', function copyMail() {
     var copyText = document.getElementById("myMail").attribute("href");
   
     copyText.select();
@@ -16,4 +11,4 @@ function copyMail() {
     navigator.clipboard.writeText(copyText.value);
   
     alert("Email copié: " + copyText.value);
-}
+});
