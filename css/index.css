@@ -137,12 +137,16 @@ nav{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    height: 100%;
+    align-items: center;
 }
 
 .contact-info{
+    height: fit-content;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    font-size: 20px;
 }
 
 .contact-info a, .contact-cards a{
@@ -150,19 +154,6 @@ nav{
     color: white;
     text-decoration: none;
     text-decoration-color: white;
-}
-
-div #copy-btn {
-    background-color: #e7e7e7;
-    color: black;
-    border: none;
-    height: 20px;
-    width: 50px;
-    padding: 5px 8px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
 }
 
 .contact-cards{
