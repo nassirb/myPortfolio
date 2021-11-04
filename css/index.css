@@ -143,6 +143,8 @@ nav{
 
 .contact-info{
     display: flex;
+    height: 280px;
+    margin: 0 30px;
     flex-direction: column;
     justify-content: space-evenly;
     font-size: 20px;
