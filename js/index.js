@@ -3,7 +3,7 @@ const burger = document.querySelector('.burger');
 const copyBtn = document.getElementById('#copy-btn');
 
 copyBtn.addEventListener('click', function copyMail() {
-    var copyText = document.getElementById("myMail").attribute("href");
+    var copyText = document.getElementById("mailInput");
   
     copyText.select();
     copyText.setSelectionRange(0, 99999);
