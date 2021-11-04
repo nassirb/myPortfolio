@@ -140,17 +140,22 @@ nav{
     justify-content: space-around;
 }
 
+.contact-info a, .contact-cards a{
+    display: block;
+    text-decoration: none;
+}
+
 div #copy-btn {
     background-color: #e7e7e7;
     color: black;
     border: none;
     height: 20px;
-    width: 40px;
-    padding: 5px 10px;
+    width: 50px;
+    padding: 5px 8px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .contact-cards{
@@ -161,10 +166,6 @@ div #copy-btn {
 
 .contact-cards div {
     margin: 0 20px 0 20px;
-}
-
-.contact-cards a {
-    display: block;
 }
 
 .contact-cards video, .contact-cards img{
