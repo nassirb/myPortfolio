@@ -128,6 +128,12 @@ nav{
     padding: 0;
 }
 
+.contact-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .contact-info{
     display: flex;
     flex-direction: row;
@@ -143,10 +149,10 @@ nav{
 .contact-cards a {
     display: block;
 }
-.contact-cards video, img{
+.contact-cards video, .contact-cards img{
     display: block;
-    width: 80px;
-    height: 110px;
+    width: 200px;
+    height: 100%;
 }
 .contact-cards a:hover{
     transform: scale(1.2);
