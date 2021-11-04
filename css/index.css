@@ -142,10 +142,9 @@ nav{
 }
 
 .contact-info{
-    height: fit-content;
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: space-evenly;
     font-size: 20px;
 }
 
