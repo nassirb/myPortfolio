@@ -290,4 +290,16 @@ footer{
         top: unset;
         left: 15px;
     }
+    #contact{
+        height: auto;
+    }
+    .contact-container{
+        flex-direction: column;
+    }
+    .contact-cards{
+        flex-direction: column;
+    }
+    .contact-cards div{
+        margin: 20px 0;
+    }
 }
