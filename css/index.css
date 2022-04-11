@@ -259,6 +259,18 @@ footer{
         top: unset;
         left: 20px;
     }
+    #contact{
+        height: auto;
+    }
+    .contact-container{
+        flex-direction: column;
+    }
+    .contact-cards{
+        flex-direction: column;
+    }
+    .contact-cards div{
+        margin: 20px 0;
+    }
 }
 
 @media screen and (min-width: 320px) and (max-width: 424px) {
