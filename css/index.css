@@ -120,6 +120,10 @@ nav{
     color: #ffffff
 }
 
+#about, #projets {
+    background-color: #6386c3;
+}
+
 .central-part{
     padding: 40px 60px;
 }
