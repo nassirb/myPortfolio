@@ -117,11 +117,12 @@ nav{
 
 #header, #parcour, #contact {
     background-color: #192734;
-    color: #ffffff
+    color: #a9a9a9;
 }
 
 #about, #projets {
-    background-color: #6386c3;
+    background-color: #445463;
+    color: #1e1e1e;
 }
 
 .central-part{
